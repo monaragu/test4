@@ -11,6 +11,7 @@ public class Test4Application {
 	float f=10.8f;
 	char ch='a';
 	int result=500;
+	System.out.println("Welcome");
 	public static void main(String[] args) {
 		SpringApplication.run(Test4Application.class, args);
 	}
